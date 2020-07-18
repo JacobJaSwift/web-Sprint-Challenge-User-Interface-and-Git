@@ -82,6 +82,7 @@ p {
     clear:both;
     overflow:auto;
     margin-top: 15px;
+    text-decoration: none;
 }
 
 nav{
@@ -94,6 +95,8 @@ nav{
   font-size:15px;
   padding-left: 100px;
   margin-top: 15px;
+  text-decoration: none;
+  color: black;
 }
 
 .navvy ul li:hover{
